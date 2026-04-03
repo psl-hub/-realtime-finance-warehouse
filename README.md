@@ -16,6 +16,4 @@ FlinkSQL 对 Kafka 流数据进行窗口聚合执行部分图：<img width="1365
 <img width="2516" height="1158" alt="屏幕截图 2026-04-02 203730" src="https://github.com/user-attachments/assets/2fea0c58-513b-4790-b5e3-5ce1f7497321" />
 配置sugar参数连接数据创建可视化报表：<img width="1668" height="621" alt="屏幕截图 2026-04-02 202505" src="https://github.com/user-attachments/assets/ee371f1c-7f27-408e-b9af-152d56d2d4ad" />
 <img width="1369" height="624" alt="屏幕截图 2026-04-02 202916" src="https://github.com/user-attachments/assets/f4d712d0-76aa-4e68-be46-b17c5626d3bd" />
-构建审批域、授信域、合同域部分代码如表所示：[构建DIM层数据代码.docx](https://github.com/user-attachments/files/26452183/DIM.docx)
-[构建DWD层数据代码.docx](https://github.com/user-attachments/files/26452185/DWD.docx)
-[构建DWS层数据部分代码.docx](https://github.com/user-attachments/files/26452187/DWS.docx)
+
